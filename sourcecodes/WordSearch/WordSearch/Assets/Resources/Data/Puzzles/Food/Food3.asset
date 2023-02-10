@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a416d24cd9f27a042b50718bc706fa60, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 300
+  columns: 10
+  rows: 10
+  board:
+  - kichthuoc: 10
+    row:
+    - U
+    - T
+    - C
+    - F
+    - R
+    - L
+    - F
+    - K
+    - E
+    - Y
+  - kichthuoc: 10
+    row:
+    - T
+    - R
+    - F
+    - O
+    - Z
+    - L
+    - J
+    - P
+    - J
+    - G
+  - kichthuoc: 10
+    row:
+    - V
+    - Z
+    - D
+    - S
+    - X
+    - O
+    - S
+    - W
+    - Q
+    - B
+  - kichthuoc: 10
+    row:
+    - G
+    - U
+    - P
+    - J
+    - U
+    - L
+    - A
+    - J
+    - P
+    - D
+  - kichthuoc: 10
+    row:
+    - R
+    - N
+    - X
+    - D
+    - Z
+    - P
+    - H
+    - O
+    - E
+    - W
+  - kichthuoc: 10
+    row:
+    - Z
+    - Y
+    - I
+    - O
+    - L
+    - F
+    - D
+    - S
+    - Z
+    - L
+  - kichthuoc: 10
+    row:
+    - B
+    - H
+    - X
+    - Z
+    - E
+    - T
+    - S
+    - M
+    - R
+    - R
+  - kichthuoc: 10
+    row:
+    - N
+    - U
+    - U
+    - O
+    - J
+    - M
+    - K
+    - C
+    - Q
+    - Q
+  - kichthuoc: 10
+    row:
+    - K
+    - P
+    - X
+    - J
+    - H
+    - K
+    - S
+    - M
+    - W
+    - K
+  - kichthuoc: 10
+    row:
+    - D
+    - O
+    - Z
+    - U
+    - J
+    - N
+    - I
+    - B
+    - D
+    - C
+  searchWords:
+  - Word: ADS
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
+  - Word: ABC
